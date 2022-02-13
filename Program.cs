@@ -1,3 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine($"Today is {DateTimeOffset.Now}");
+Console.WriteLine($"Hello, World! Today is {DateTimeOffset.Now}.");
